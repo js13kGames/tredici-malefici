@@ -1,4 +1,8 @@
 ---
+genres:
+  - shooter
+  - action
+  - arcade
 directors_cut: https://bacionejs.github.io/editor/bacionejs.html
 # See github.com/js13kGames/hello-world for supported frontmatter
 ---
